@@ -4,7 +4,7 @@
 ![GEO-PHONE](https://img.shields.io/badge/version-2.0-blue)
 ![GEO-PHONE](https://img.shields.io/badge/bash-5.0+-green)
 ![GEO-PHONE](https://img.shields.io/badge/license-MIT-orange)
-![GEO-PHONE](https://img.shields.io/badge/platform-Linux%2520%257C%2520macOS-lightgrey)
+![GEO-PHONE](https://img.shields.io/badge/platform-Linux-lightgrey)
 
 X-Server is an advanced, secure file encryption and sharing tool with a beautiful terminal interface. It allows you to encrypt folders, upload them to the cloud, and share them via unique download IDs - all with enterprise-grade AES-256 encryption.
 
