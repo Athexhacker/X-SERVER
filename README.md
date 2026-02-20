@@ -59,22 +59,24 @@ bash
 - python2/python3
 - curl/wget
 - netcat
-Installation
-bash
-# Clone the repository
+# Installation
+```
+
 git clone https://github.com/Athexhacker/X-Server.git
-
-# Navigate to directory
 cd X-Server
-
-# Make the script executable
 chmod +x run.sh
-
-# Run X-Server
 ./run.sh
+
+```
+
 One-liner Installation
 bash
+```
+
 curl -sSL https://raw.githubusercontent.com/Athexhacker/X-Server/main/run.sh | bash
+
+```
+
 ***📖 Detailed Usage Guide***
 Main Menu Options
 
